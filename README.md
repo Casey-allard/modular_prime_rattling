@@ -56,7 +56,7 @@ Make sure the following files are present:
 - `modular_prime_rattling_analysis.png`
 
 ## ✍ Authors
-- **Casey [Surname]** — Originator of the Prime Rattling theory
+- **Casey Allard** — Originator of the Prime Rattling theory
 - **ChatGPT** — Co-pilot for theory refinement, formalism, and simulation
 
 ---
