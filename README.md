@@ -60,5 +60,3 @@ Make sure the following files are present:
 - **ChatGPT** — Co-pilot for theory refinement, formalism, and simulation
 
 ---
-
-> “Resolving the illusion of linear time, one prime at a time.” ✨
