@@ -9,7 +9,7 @@ The accompanying research paper outlines the full theory, formal lemmas, conject
 
 - Title: *Structured Rattling and Harmonic Resonance as Predictors of Prime Distribution in Modular Fields*
 - Format: LaTeX + BibTeX
-- Papers available via this repository.
+- Paper available via Repo (Update - second paper now available as well)
 
 ## 🧠 Theory Summary
 
@@ -50,10 +50,6 @@ The paper includes a formal bibliography referencing:
 - Entropy and resonance field theory
 - Probabilistic number theory
 
-Make sure the following files are present:
-- `modular_prime_rattling_paper.tex`
-- `prime_rattling_refs.bib`
-- `modular_prime_rattling_analysis.png`
 
 ## ✍ Authors
 - **Casey Allard** — Originator of the Prime Rattling theory
