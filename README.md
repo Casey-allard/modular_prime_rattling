@@ -9,7 +9,7 @@ The accompanying research paper outlines the full theory, formal lemmas, conject
 
 - Title: *Structured Rattling and Harmonic Resonance as Predictors of Prime Distribution in Modular Fields*
 - Format: LaTeX + BibTeX
-- Paper available via Repo (Update - second paper now available as well)
+- Two papers and a third unifying pre-print available.
 
 ## 🧠 Theory Summary
 
