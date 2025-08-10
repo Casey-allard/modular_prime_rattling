@@ -1,3 +1,3 @@
-Mathematics preprint dealing in prime number theory.
+Mathematics preprint introducing a novel framework in prime number theory.
 
-Original work by repo author 2025.
+Original work by repo author (Casey Allard) 2025.
