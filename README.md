@@ -13,9 +13,13 @@ Original work by repo author (Casey Allard) 2025-26.
 
 
 How to run:
+
   extract the .zip
+  
   cd rattling_next_steps
+  
   python3 experiments/run_rattling_pipeline.py --N 200000 --M 120 --alpha 2.0 --zeta_k 300
+
 
 
 Inside the zip:
